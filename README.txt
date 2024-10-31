@@ -1,9 +1,5 @@
 IoT-based smart parking system
 
-Team members:
-Jitheesh V J
-Kanuru Yamini Krishna
-Loka Nehan Reddy
 
 This project is an IoT-based smart parking system. The system uses ultrasonic sensors and infrared sensors to detect if a given parking slot is occupied and shows the output using LEDs.
 
